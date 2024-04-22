@@ -36,11 +36,7 @@ ol {
 a {
   text-decoration: none;
 }
-.container {
-  width: 1158px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
+
 .section {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -58,3 +54,8 @@ a {
   overflow: hidden;
 }
 
+.container {
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
